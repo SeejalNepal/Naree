@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907308621873",
+    "project_id": "naree-87dc7",
+    "storage_bucket": "naree-87dc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907308621873:android:8c217a2d1a2cd7fcd0f510",
+        "android_client_info": {
+          "package_name": "com.seejal.naree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907308621873-27ncqmv6ucoudajo01apbmod360dm672.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQoLUr2PlPnv5YQQr-up_g-sRaRaujPmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907308621873-27ncqmv6ucoudajo01apbmod360dm672.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
